@@ -33,7 +33,14 @@ this repo is my nvim config is a simple config and this is the video wear i star
 # <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/a4a8c43c-433a-4176-a78e-b25d3ccf57aa" /> install
 
 ```
-cd
+cd ~/.config
 ```
-
-
+```
+rm -rf nvim
+```
+```
+git clone https://github.com/Rabi3ss/nvim.git
+```
+```
+nvim
+```
