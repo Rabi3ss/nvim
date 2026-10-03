@@ -48,3 +48,4 @@ run nvim and You're gonna see plugins download that is normal just let him finis
 ```
 nvim
 ```
+if installtinon finish click q
